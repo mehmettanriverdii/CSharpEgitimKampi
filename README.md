@@ -7,7 +7,7 @@ Bu projede double, char gibi farklı veri türlerinde değişkenler tanımlamay�
 <h2 id="4"><a href="#4">📍 Proje 3: Karar Yapıları(if-else)</a></h2>
 Bu proje ile if, else, else if ve switch - case yapılarını tamamladım.
 <h2 id="5"><a href="#5">📍 Proje 4: Döngüler (Loops)</a></h2>
-Bu projede for döngüsü, for döngüsü ve karar yapıları ve while döngüsünü tamamladım.
+Bu projede for döngüsü, karar yapıları ve while döngüsünü tamamladım.
 <h2 id="6"><a href="#6">📍 Proje 5: Döngüler ile Yıldızlar(Loops With Stars)</a></h2>
 Bu projede döngüler yardımı ile farklı şekillerde yıldızlar oluşturdum.
 <h2 id="7"><a href="#7">📍 Proje 6: Diziler (Arrays)</a></h2>
