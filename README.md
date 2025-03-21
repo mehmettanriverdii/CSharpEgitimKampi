@@ -9,7 +9,7 @@ Bu proje ile if, else, else if ve switch - case yapılarını tamamladım.
 <h2 id="5"><a href="#5">📍 Proje 4: Döngüler (Loops)</a></h2>
 Bu projede for döngüsü, for döngüsü ve karar yapıları ve while döngüsünü tamamladım.
 <h2 id="6"><a href="#6">📍 Proje 5: Döngüler ile Yıldızlar(Loops With Stars)</a></h2>
-Bu projede döngüler yardımı ile değişik şekillerde yıldızlar oluşturdum.
+Bu projede döngüler yardımı ile farklı şekillerde yıldızlar oluşturdum.
 <h2 id="7"><a href="#7">📍 Proje 6: Diziler (Arrays)</a></h2>
 Bu projede dizi tanımlama, dizi örnekleri, dizi listeme ve dizi metotlar gibi işlemler yaptım.
 <h2 id="8"><a href="#8">📍 Proje 7: Foreach Döngüsü (Foreach Loops)</a></h2>
